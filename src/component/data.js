@@ -302,7 +302,6 @@ export const Datas = () => {
           console.log('product', product);
         }
       });
-
       if (products.length > 10) {
         pageNum === 1
           ? (products = products.slice(pageNum - 1, pageNum * 10))
