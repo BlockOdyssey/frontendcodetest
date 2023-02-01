@@ -34,7 +34,7 @@ Please send the GitHub Repository Link to the recruiter.
 
 -   Both **JavaScript** and **TypeScript** are allowed.
 -   Your objective is to complete the [Required Tasks]. As long as you have the required components implemented, how it looks does not matter.
--   Only **HTML, CSS(SASS)** are allowed. Please do not use any other CSS Frameworks or UI Component libraries such as **bootstrap, material-ui, tailwindcss**
+-   Only **HTML, CSS(SASS)** are allowed. Please do not use any other CSS Frameworks or UI Component libraries such as **bootstrap, material-ui, tailwindcss and styled-components**
 -   If you need to use the state management library, please use **redux-toolkit.**
 -   You are not allowed to use **redux-persist, localStorage**
     <br />
